@@ -1,0 +1,35 @@
+<Root>
+    <Result>
+        <System>
+            <Name>ABC</Name>
+            <ID pname="PAD">
+                <value>4567</value>
+            </ID>
+            <lastTime>2013-11-06T17:36:46.000-05:00</lastTime>
+        </System>
+        <line>Metals</line>
+    </Result>
+    <Result>
+        <System>
+            <Name>CAYS</Name>
+            <ID pname="PAD">
+                <value>MCIERT</value>
+            </ID>
+            <ID pname="ATPAD">
+                <value>56412</value>
+            </ID>
+            <lastTime>2013-12-06T16:43:36.000-05:00</lastTime>
+        </System>
+        <System>
+            <Name>CAYS</Name>
+            <ID pname="CAD">
+                <value>DGSG</value>
+            </ID>
+            <ID pname="ARCAD">
+                <value>2847114</value>
+            </ID>
+            <lastTime>2013-12-07T20:02:38.000-05:00</lastTime>
+        </System>
+        <line>Minerals</line>
+    </Result>
+</Root>
